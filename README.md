@@ -8,7 +8,7 @@
 * [Creator](#creator)
 
 ## Background
-<img src="https://github.com/Bayunova28/Moderna_Vaccine_Stock/blob/master/images/MODERNA-9.jpg" height="500" width="1100">
+<img src="https://github.com/Bayunova28/Moderna_Vaccine_Stock/blob/master/images/cover.jpg" height="500" width="1100">
 
 <p align="justify">Covid-19 Pandemic mainly occurs starting from December 2019, in Wuhan, Hubei Province, China. Corona Virus Disease (Covid-19) has been spreading around 
 the world and infecting millions of people in worldwide scales. The positive cases amount has also increasing day by day. Covid-19 didn’t just effect socials and cultures
