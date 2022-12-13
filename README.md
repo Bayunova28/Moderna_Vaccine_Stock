@@ -50,3 +50,6 @@ algorithm used for predicting the close price for the next 60 days? We have been
 * Fiona Tanadi
 * Nicholas Fernando
 * Willibrordus Bayu
+
+## Acknowledgement
+Data Source : [Vaccine Stocks](https://www.kaggle.com/datasets/akpmpr/covid-vaccine-companies-stock-data-from-2019)
