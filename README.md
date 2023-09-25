@@ -37,7 +37,7 @@ algorithm used for predicting the close price for the next 60 days? We have been
 * What is the result of the Close price prediction on the Moderna Vaccines stock for the next 60 days?
 * How is the accuracy of each algorithms against close price predictions on Moderna Vaccine Stock?
 
-## Schema
+## Features
 * **Date :** period of time the stock move
 * **High :** high price of stock 
 * **Low :** low price of stock
